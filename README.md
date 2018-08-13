@@ -1,1 +1,3 @@
-# UD-DL-P3-RNN
+# SimpsonsScript-RNN
+
+Generates a Simpsons script in Moe's Tavern using RNNs
